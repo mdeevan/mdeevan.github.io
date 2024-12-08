@@ -1,4 +1,0 @@
-bundle install --> to compile
-bundle exec jekyll serve  --> to test locally
-
-E:\MNI\Dev\githubpages\mdeevan.github.io>  --> code location
