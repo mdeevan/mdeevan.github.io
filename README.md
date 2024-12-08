@@ -1,5 +1,18 @@
 # mnaveed.github.io
+<head>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z5YQCY7KR6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z5YQCY7KR6');
+</script>
+
+  
+</head>
 <html>
 <body>
   
