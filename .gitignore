@@ -1,4 +1,5 @@
 .github
+_site
 .sass-cache
 Gemfile.lock
 *.gem
