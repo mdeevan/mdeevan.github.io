@@ -2,22 +2,6 @@
 layout: default
 ---
 
-# Education
-
-
-### Education
-
-1.  Masters in Computer Science
-1.  Masters in Business Administration - Marketing
-
-### Udacity Nanodegree/Certifications
-
-1.  [Introduction to Machine Learning with PyTorch](https://www.udacity.com/certificate/e/a55f5dd6-7cd1-11ef-a364-abd10f867587)
-1.  [Generative AI](https://www.udacity.com/certificate/e/e09168e0-b61b-11ee-a72a-7f749cd4e37d)
-1.  [Data Scientist](https://www.udacity.com/certificate/H4DWUZJL)
-1.  [Data Science for Business Leaders](https://www.udacity.com/certificate/3CYG6DHU)
-
-
 
 
 # Portfolio of Projects
@@ -29,39 +13,56 @@ layout: default
               Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign._
 1.  [Image Classification  (2024)]()
 
-    CIFAR-10 Image Classification using PyTorch
-
+    _CIFAR-10 Image Classification using PyTorch_
 
 
 1.  [Finding Donors for CharityML  (2024)]()
-            <p>Identify Donors for chartiy based on the Census data, employing supervised machine learning algorithms</p>
+            
+    _Identify Donors for chartiy based on the Census data, employing supervised machine learning algorithms_
 
 1.  [Personalized Realestate Agent  (2024)](https://github.com/mdeevan/Personalized-Real-Estate-Agent)
-            <p>Generate synthetic real estate data, and then provide personalized listing recommendation based on user provided preferences</p>
+    
+    _Generate synthetic real estate data, and then provide personalized listing recommendation based on user provided preferences_
 
 1.  [Custom Chatbot  (2024)](https://github.com/mdeevan/custom_chatbot)
-            <p>Custom chatbot to answer question about TV Series Survior. Uses web-scrapting to capture data from web for RAG, uses Chroma</p>
+
+    _Custom chatbot to answer question about TV Series Survior. Uses web-scrapting to capture data from web for RAG, uses Chroma_
 
 1.  [LLM Finetuning  (2024)](https://github.com/mdeevan/LightweightFineTuning)
-            <p>Lightweight finetuning of bert-large-uncased LLM with qLoRA</p>
+
+    _Lightweight finetuning of bert-large-uncased LLM with qLoRA_
 
 1.  [Starbucks (2021)](https://github.com/mdeevan/StarbucksCapstone)
-              <p>Identify starbucks demographics groups  that best response to discount offers based on transaction, demographic and offer data.
+    _Identify starbucks demographics groups  that best response to discount offers based on transaction, demographic and offer data._
 
 1.  [Airbnb - Boston (2021)](https://github.com/mdeevan/DataScienceBlogPost)
-              <p>Analyze publically available dataset (boston airbnb) to understand data and domain.
+    _Analyze publically available dataset (boston airbnb) to understand data and domain._
 
 1.  [Disaster Response Pipeline  (2021)](https://github.com/mdeevan/DisasterResponsePipeline)
-            <p>Natural language processing and machine learning to classify the text and tweets sent during such disasters
+    _Natural language processing and machine learning to classify the text and tweets sent during such disasters_
 
 
 ###  C++
 
-1.  [Find shortest path (A* Algorithm implementation)  (2024)]() 
-            <p>route planner that plots a path between two points on a map using real map data from the <a href="https://www.openstreetmap.org/">OpenStreeMap project</a>.</p>
+1.  [Find shortest path (A* Algorithm implementation)  (2024)]()
 
-
+    _route planner that plots a path between two points on a map using real map data from the <a href="https://www.openstreetmap.org/">OpenStreeMap project_
 
 
 
 * * *
+# Education/Qualification
+
+
+### Degrees
+
+1.  Masters in Computer Science
+1.  Masters in Business Administration - Marketing
+
+### Udacity Nanodegree/Certifications
+
+1.  [Introduction to Machine Learning with PyTorch](https://www.udacity.com/certificate/e/a55f5dd6-7cd1-11ef-a364-abd10f867587)
+1.  [Generative AI](https://www.udacity.com/certificate/e/e09168e0-b61b-11ee-a72a-7f749cd4e37d)
+1.  [Data Scientist](https://www.udacity.com/certificate/H4DWUZJL)
+1.  [Data Science for Business Leaders](https://www.udacity.com/certificate/3CYG6DHU)
+
