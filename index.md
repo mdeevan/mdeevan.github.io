@@ -8,21 +8,21 @@ layout: default
 
 1.  [Arvato Financial Customer Segmentation - Unsupervised learning  (2024)]() 
     
-       _Work with real-life data provided to us by our Bertelsmann partners AZ Direct and Arvato Finance Solution. 
+       _Work with real-life data provided to Udacity by Bertelsmann partners AZ Direct and Arvato Finance Solution. 
               The data here concerns a company that performs mail-order sales in Germany. 
               Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign._
-1.  [Image Classification  (2024)]()
+1.  [Image Classification  (2024)](https://github.com/mdeevan/CIFAR-10_Image_Classifier/)
 
     _CIFAR-10 Image Classification using PyTorch_
 
 
-1.  [Finding Donors for CharityML  (2024)]()
+1.  [Finding Donors for CharityML  (2024)](https://github.com/mdeevan/Finding-Donors-for-CharityML)
             
     _Identify Donors for chartiy based on the Census data, employing supervised machine learning algorithms_
 
 1.  [Personalized Realestate Agent  (2024)](https://github.com/mdeevan/Personalized-Real-Estate-Agent)
     
-    _Generate synthetic real estate data, and then provide personalized listing recommendation based on user provided preferences_
+    _Generate synthetic real estate data, and then provide personalized listing recommendation based on user provided preferences via interactive prompts_
 
 1.  [Custom Chatbot  (2024)](https://github.com/mdeevan/custom_chatbot)
 
@@ -44,9 +44,9 @@ layout: default
 
 ###  C++
 
-1.  [Find shortest path (A* Algorithm implementation)  (2024)]()
+1.  [Find shortest path (A* Algorithm implementation)  (2024)](https://github.com/mdeevan/CppND-Route-Planning-Project)
 
-    _route planner that plots a path between two points on a map using real map data from the <a href="https://www.openstreetmap.org/">OpenStreeMap project</a>_
+    _Route planner that plots a path between two points on a map using real map data from the <a href="https://www.openstreetmap.org/">OpenStreeMap project</a>_
 
 
 
