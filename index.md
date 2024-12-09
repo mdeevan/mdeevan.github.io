@@ -46,7 +46,7 @@ layout: default
 
 1.  [Find shortest path (A* Algorithm implementation)  (2024)]()
 
-    _route planner that plots a path between two points on a map using real map data from the <a href="https://www.openstreetmap.org/">OpenStreeMap project_
+    _route planner that plots a path between two points on a map using real map data from the <a href="https://www.openstreetmap.org/">OpenStreeMap project</a>_
 
 
 
