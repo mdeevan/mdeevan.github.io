@@ -1,5 +1,15 @@
 # Muhamnmad Naveed
 
+# Career Timeline
+
+Project details are on [Linkedin](https://linkedin.com/in/mdeevan)
+
+Clients/Customers
+
+[![Experience](./assets/img/experience.png)](https://linkedin.com/in/mdeevan)
+
+Employers
+
 ## Portfolio of Projects
 
 1.  [Arvato Financial Customer Segmentation - Unsupervised learning  (2024)]() 
