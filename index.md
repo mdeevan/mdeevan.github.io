@@ -14,7 +14,7 @@ Employers
 
 
 
-# Portfolio of Projects (Personal)
+# Portfolio of Projects - public repository
 
 1.  [Arvato Financial Customer Segmentation - Unsupervised learning  (2024)]() 
     
