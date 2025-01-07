@@ -16,11 +16,18 @@ Employers
 
 # Portfolio of Projects - public repository
 
+
+1.  [Operationalize a Machine Learning Model on AWS SageMaker  (2024)](https://github.com/mdeevan/Operationalizing-an-AWS-ML-Project) 
+    
+       _Starting with a completed ML model. Train and deploy using best hyperparameters (resulting from hyperparameter tuning job) using SageMaker._
+       _Train with multi-instance training as well as EC2. Finally deploy on endpoint for inference and access using REST API and Lambda   ._
+
 1.  [Arvato Financial Customer Segmentation - Unsupervised learning  (2024)]() 
     
        _Work with real-life data provided to Udacity by Bertelsmann partners AZ Direct and Arvato Finance Solution. 
               The data here concerns a company that performs mail-order sales in Germany. 
               Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign._
+
 1.  [Image Classification  (2024)](https://github.com/mdeevan/CIFAR-10_Image_Classifier/)
 
     _CIFAR-10 Image Classification using PyTorch_
